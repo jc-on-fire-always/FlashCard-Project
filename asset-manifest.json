@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlashCard-Project/static/css/main.ab3b7c3d.chunk.css",
+    "main.js": "/FlashCard-Project/static/js/main.2dbbe2a1.chunk.js",
+    "main.js.map": "/FlashCard-Project/static/js/main.2dbbe2a1.chunk.js.map",
+    "runtime~main.js": "/FlashCard-Project/static/js/runtime~main.fd5995d6.js",
+    "runtime~main.js.map": "/FlashCard-Project/static/js/runtime~main.fd5995d6.js.map",
+    "static/js/2.f01859b6.chunk.js": "/FlashCard-Project/static/js/2.f01859b6.chunk.js",
+    "static/js/2.f01859b6.chunk.js.map": "/FlashCard-Project/static/js/2.f01859b6.chunk.js.map",
+    "index.html": "/FlashCard-Project/index.html",
+    "precache-manifest.777ee2f3431a9043c025f271f024e48b.js": "/FlashCard-Project/precache-manifest.777ee2f3431a9043c025f271f024e48b.js",
+    "service-worker.js": "/FlashCard-Project/service-worker.js",
+    "static/css/main.ab3b7c3d.chunk.css.map": "/FlashCard-Project/static/css/main.ab3b7c3d.chunk.css.map"
+  }
+}
