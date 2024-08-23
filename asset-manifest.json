@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FlashCard-Project/static/css/main.ab3b7c3d.chunk.css",
-    "main.js": "/FlashCard-Project/static/js/main.2dbbe2a1.chunk.js",
-    "main.js.map": "/FlashCard-Project/static/js/main.2dbbe2a1.chunk.js.map",
+    "main.js": "/FlashCard-Project/static/js/main.4f02a87d.chunk.js",
+    "main.js.map": "/FlashCard-Project/static/js/main.4f02a87d.chunk.js.map",
     "runtime~main.js": "/FlashCard-Project/static/js/runtime~main.fd5995d6.js",
     "runtime~main.js.map": "/FlashCard-Project/static/js/runtime~main.fd5995d6.js.map",
-    "static/js/2.f01859b6.chunk.js": "/FlashCard-Project/static/js/2.f01859b6.chunk.js",
-    "static/js/2.f01859b6.chunk.js.map": "/FlashCard-Project/static/js/2.f01859b6.chunk.js.map",
+    "static/js/2.c330a03d.chunk.js": "/FlashCard-Project/static/js/2.c330a03d.chunk.js",
+    "static/js/2.c330a03d.chunk.js.map": "/FlashCard-Project/static/js/2.c330a03d.chunk.js.map",
     "index.html": "/FlashCard-Project/index.html",
-    "precache-manifest.94e971493e0f4d3d71df53ab1cbc7036.js": "/FlashCard-Project/precache-manifest.94e971493e0f4d3d71df53ab1cbc7036.js",
+    "precache-manifest.e481bbee512341b03e9afe1774934a9e.js": "/FlashCard-Project/precache-manifest.e481bbee512341b03e9afe1774934a9e.js",
     "service-worker.js": "/FlashCard-Project/service-worker.js",
     "static/css/main.ab3b7c3d.chunk.css.map": "/FlashCard-Project/static/css/main.ab3b7c3d.chunk.css.map"
   }
